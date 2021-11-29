@@ -1,6 +1,6 @@
 # Proje - 1
 
-**Veri:**  [22,27,16,2,18,6]
+**Veri:**  [22,27,16,2,18,6]    
 **Yöntem:** Insertion Sort
 
 1.  Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -12,10 +12,10 @@
 
 ## Cevaplar
 ### 1. Cevap
-Adım-1 ---> [16,22,27,2,18,6]
-Adım-2 ---> [2,16,22,27,18,6]
-Adım-3 ---> [2,16,18,22,27,6]
-Adım-4 ---> [2,6,16,18,22,27]
+Adım-1 ---> [16,22,27,2,18,6]   
+Adım-2 ---> [2,16,22,27,18,6]   
+Adım-3 ---> [2,16,18,22,27,6]   
+Adım-4 ---> [2,6,16,18,22,27]   
 
 ### 2. Cevap
 Insertion Sort olduğu için O(n^2)'dir.
@@ -31,8 +31,8 @@ Insertion Sort olduğu için O(n^2)'dir.
 Dizi sıralandıktan sonra 18 sayısı, dizinin ortalarına denk gelmektedir bu sebeple Average Case'e denk gelmektedir.
 
 ### Bonus
-Adım-1 ---> [3,7,5,8,2,9,4,15,6]
-Adım-2 ---> [3,5,7,8,2,9,4,15,6]
-Adım-3 ---> [2,3,5,7,8,9,4,15,6]
-Adım-4 ---> [2,3,4,5,7,8,9,15,6]
+Adım-1 ---> [3,7,5,8,2,9,4,15,6]    
+Adım-2 ---> [3,5,7,8,2,9,4,15,6]    
+Adım-3 ---> [2,3,5,7,8,9,4,15,6]    
+Adım-4 ---> [2,3,4,5,7,8,9,15,6]    
  
